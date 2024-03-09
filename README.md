@@ -1,0 +1,1 @@
+# study_m10_l2_django
